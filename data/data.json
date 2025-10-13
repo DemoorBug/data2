@@ -82,6 +82,13 @@
         "buff_username": "U16346358015",
         "timestamp": "2025-10-13T14:57:36.541Z",
         "ratio": 0.8497
+      },
+      {
+        "steam_price": 135.04,
+        "buff_price": 97.52,
+        "buff_username": "请多关照呀",
+        "timestamp": "2025-10-13T15:19:05.849Z",
+        "ratio": 0.8496
       }
     ]
   },
@@ -125,6 +132,13 @@
         "buff_username": "U20656507948",
         "timestamp": "2025-10-13T14:57:28.924Z",
         "ratio": 0.8082
+      },
+      {
+        "steam_price": 170.61,
+        "buff_price": 117.19,
+        "buff_username": "请多关照呀",
+        "timestamp": "2025-10-13T15:20:06.322Z",
+        "ratio": 0.8081
       }
     ]
   },
@@ -211,6 +225,13 @@
         "buff_username": "U74146467119",
         "timestamp": "2025-10-13T14:57:43.368Z",
         "ratio": 0.9115
+      },
+      {
+        "steam_price": 154.89,
+        "buff_price": 119.99,
+        "buff_username": "请多关照呀",
+        "timestamp": "2025-10-13T15:19:11.695Z",
+        "ratio": 0.9114
       }
     ]
   },
@@ -340,6 +361,13 @@
         "buff_username": "U96201819596",
         "timestamp": "2025-10-13T14:57:57.134Z",
         "ratio": 0.7296
+      },
+      {
+        "steam_price": 8.96,
+        "buff_price": 5.78,
+        "buff_username": "U96201819596",
+        "timestamp": "2025-10-13T15:20:22.136Z",
+        "ratio": 0.7589
       }
     ]
   },
@@ -383,6 +411,13 @@
         "buff_username": "U78515654353",
         "timestamp": "2025-10-13T14:58:07.653Z",
         "ratio": 0.7759
+      },
+      {
+        "steam_price": 7.9,
+        "buff_price": 5.2,
+        "buff_username": "请多关照呀",
+        "timestamp": "2025-10-13T15:20:12.724Z",
+        "ratio": 0.7744
       }
     ]
   },
@@ -598,6 +633,13 @@
         "buff_username": "U60516101618",
         "timestamp": "2025-10-13T14:58:23.555Z",
         "ratio": 0.7519
+      },
+      {
+        "steam_price": 34.93,
+        "buff_price": 24.5,
+        "buff_username": "小小叮噹",
+        "timestamp": "2025-10-13T15:19:41.408Z",
+        "ratio": 0.8252
       }
     ]
   },
@@ -641,6 +683,13 @@
         "buff_username": "U78515654353",
         "timestamp": "2025-10-13T14:58:29.443Z",
         "ratio": 0.778
+      },
+      {
+        "steam_price": 33.87,
+        "buff_price": 21.39,
+        "buff_username": "小小叮噹",
+        "timestamp": "2025-10-13T15:19:47.596Z",
+        "ratio": 0.743
       }
     ]
   },
@@ -727,6 +776,13 @@
         "buff_username": "森林北",
         "timestamp": "2025-10-13T14:59:08.631Z",
         "ratio": 0.6858
+      },
+      {
+        "steam_price": 8.32,
+        "buff_price": 4.9,
+        "buff_username": "U49853657682",
+        "timestamp": "2025-10-13T15:20:29.157Z",
+        "ratio": 0.6929
       }
     ]
   },
@@ -899,6 +955,13 @@
         "buff_username": "U39039956181",
         "timestamp": "2025-10-13T14:58:43.801Z",
         "ratio": 0.7025
+      },
+      {
+        "steam_price": 6.33,
+        "buff_price": 3.76,
+        "buff_username": "小小叮噹",
+        "timestamp": "2025-10-13T15:19:27.700Z",
+        "ratio": 0.6988
       }
     ]
   },
@@ -1157,6 +1220,13 @@
         "buff_username": "乌桃厚乳奶绿",
         "timestamp": "2025-10-13T14:59:24.510Z",
         "ratio": 0.8051
+      },
+      {
+        "steam_price": 11.03,
+        "buff_price": 7.87,
+        "buff_username": "小小叮噹",
+        "timestamp": "2025-10-13T15:20:25.146Z",
+        "ratio": 0.8394
       }
     ]
   },
@@ -1200,6 +1270,13 @@
         "buff_username": "周跳跳神秘商店",
         "timestamp": "2025-10-13T14:59:45.030Z",
         "ratio": 0.7113
+      },
+      {
+        "steam_price": 38.85,
+        "buff_price": 24.96,
+        "buff_username": "yinbing",
+        "timestamp": "2025-10-13T15:20:38.368Z",
+        "ratio": 0.7558
       }
     ]
   },
@@ -1243,6 +1320,13 @@
         "buff_username": "叁分钟秒发货",
         "timestamp": "2025-10-13T14:59:35.452Z",
         "ratio": 0.7776
+      },
+      {
+        "steam_price": 7.11,
+        "buff_price": 5.01,
+        "buff_username": "小小叮噹",
+        "timestamp": "2025-10-13T15:21:05.305Z",
+        "ratio": 0.829
       }
     ]
   },
@@ -1286,6 +1370,246 @@
         "buff_username": "IGG机器人秒发",
         "timestamp": "2025-10-13T14:59:20.993Z",
         "ratio": 0.773
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "name": "铭刻 铁龙血脉",
+    "buff_link": "https://buff.163.com/goods/6613?from=market#tab=selling",
+    "link": "https://steamcommunity.com/market/listings/570/Inscribed%20Kindred%20of%20the%20Iron%20Dragon",
+    "prices": [
+      {
+        "steam_price": 7.97,
+        "buff_price": 5.54,
+        "buff_username": "小小叮噹",
+        "timestamp": "2025-10-13T15:19:01.927Z",
+        "ratio": 0.8178
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "name": "铭刻 战鬼双刃",
+    "buff_link": "https://buff.163.com/goods/8673?from=market#tab=selling",
+    "link": "https://steamcommunity.com/market/listings/570/Inscribed%20Blades%20of%20Voth%20Domosh",
+    "prices": [
+      {
+        "steam_price": 200.21,
+        "buff_price": 136.99,
+        "buff_username": "小小叮噹",
+        "timestamp": "2025-10-13T15:19:18.632Z",
+        "ratio": 0.805
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "name": "节庆豪礼",
+    "buff_link": "https://buff.163.com/goods/953522?from=market#tab=selling",
+    "link": "https://steamcommunity.com/market/listings/570/Lumpo%20and%20Rupertus",
+    "prices": [
+      {
+        "steam_price": 227.81,
+        "buff_price": 166.45,
+        "buff_username": "秒收老板发财8",
+        "timestamp": "2025-10-13T15:19:23.497Z",
+        "ratio": 0.8596
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "name": "石爪清道夫天辉防御塔",
+    "buff_link": "https://buff.163.com/goods/904995?from=market#tab=selling",
+    "link": "https://steamcommunity.com/market/listings/570/Stoneclaw%20Scavengers%20Radiant%20Towers",
+    "prices": [
+      {
+        "steam_price": 10.81,
+        "buff_price": 6.74,
+        "buff_username": "小小叮噹",
+        "timestamp": "2025-10-13T15:19:31.976Z",
+        "ratio": 0.7335
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "name": "铭刻 噬魔之王",
+    "buff_link": "https://buff.163.com/goods/7903?from=market#tab=selling",
+    "link": "https://steamcommunity.com/market/listings/570/Inscribed%20Demon%20Eater",
+    "prices": [
+      {
+        "steam_price": 191.1,
+        "buff_price": 132.3,
+        "buff_username": "您发报价三分到",
+        "timestamp": "2025-10-13T15:19:36.181Z",
+        "ratio": 0.8145
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "name": "嘲讽：图腾滚动",
+    "buff_link": "https://buff.163.com/goods/780052?from=market#tab=selling",
+    "link": "https://steamcommunity.com/market/listings/570/Taunt%3A%20Totem%20Roller",
+    "prices": [
+      {
+        "steam_price": 22.27,
+        "buff_price": 14.86,
+        "buff_username": "小小叮噹",
+        "timestamp": "2025-10-13T15:19:50.578Z",
+        "ratio": 0.785
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "name": "支配协律",
+    "buff_link": "https://buff.163.com/goods/29041?from=market#tab=selling",
+    "link": "https://steamcommunity.com/market/listings/570/Concord%20Dominion",
+    "prices": [
+      {
+        "steam_price": 66.24,
+        "buff_price": 41.4,
+        "buff_username": "U26865495576",
+        "timestamp": "2025-10-13T15:19:56.808Z",
+        "ratio": 0.7353
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "name": "剑心之遗",
+    "buff_link": "https://buff.163.com/goods/768151?from=market#tab=selling",
+    "link": "https://steamcommunity.com/market/listings/570/Bladeform%20Legacy",
+    "prices": [
+      {
+        "steam_price": 207.11,
+        "buff_price": 158.99,
+        "buff_username": "请多关照呀",
+        "timestamp": "2025-10-13T15:20:02.313Z",
+        "ratio": 0.9031
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "name": "石爪清道夫夜魇防御塔",
+    "buff_link": "https://buff.163.com/goods/904990?from=market#tab=selling",
+    "link": "https://steamcommunity.com/market/listings/570/Stoneclaw%20Scavengers%20Dire%20Towers",
+    "prices": [
+      {
+        "steam_price": 9.6,
+        "buff_price": 6.27,
+        "buff_username": "小小叮噹",
+        "timestamp": "2025-10-13T15:20:16.239Z",
+        "ratio": 0.7684
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "name": "萨瑞丹之琴",
+    "buff_link": "https://buff.163.com/goods/905062?from=market#tab=selling",
+    "link": "https://steamcommunity.com/market/listings/570/The%20Strings%20of%20Suradan",
+    "prices": [
+      {
+        "steam_price": 37.92,
+        "buff_price": 25.9,
+        "buff_username": "小小叮噹",
+        "timestamp": "2025-10-13T15:20:34.998Z",
+        "ratio": 0.8035
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "name": "倾天之战 - 天辉小兵",
+    "buff_link": "https://buff.163.com/goods/961493?from=market#tab=selling",
+    "link": "https://steamcommunity.com/market/listings/570/Crownfall%20-%20Radiant%20Creeps",
+    "prices": [
+      {
+        "steam_price": 6.12,
+        "buff_price": 4.02,
+        "buff_username": "CowboY",
+        "timestamp": "2025-10-13T15:20:43.917Z",
+        "ratio": 0.7728
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "name": "烬爵披肩",
+    "buff_link": "https://buff.163.com/goods/3556?from=market#tab=selling",
+    "link": "https://steamcommunity.com/market/listings/570/Mantle%20of%20the%20Cinder%20Baron",
+    "prices": [
+      {
+        "steam_price": 20.77,
+        "buff_price": 15.18,
+        "buff_username": "MushroomK",
+        "timestamp": "2025-10-13T15:20:49.443Z",
+        "ratio": 0.8598
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "name": "珠辉旋刃",
+    "buff_link": "https://buff.163.com/goods/759914?from=market#tab=selling",
+    "link": "https://steamcommunity.com/market/listings/570/Glaive%20of%20Oscilla",
+    "prices": [
+      {
+        "steam_price": 36.07,
+        "buff_price": 24.1,
+        "buff_username": "小小叮噹",
+        "timestamp": "2025-10-13T15:20:53.685Z",
+        "ratio": 0.7861
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "name": "懊怆魔镰",
+    "buff_link": "https://buff.163.com/goods/771732?from=market#tab=selling",
+    "link": "https://steamcommunity.com/market/listings/570/Scythes%20of%20Sorrow",
+    "prices": [
+      {
+        "steam_price": 6.55,
+        "buff_price": 3.68,
+        "buff_username": "小小叮噹",
+        "timestamp": "2025-10-13T15:20:59.965Z",
+        "ratio": 0.661
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "name": "斩巫碎颅锤",
+    "buff_link": "https://buff.163.com/goods/23774?from=market#tab=selling",
+    "link": "https://steamcommunity.com/market/listings/570/Basher%20of%20Mage%20Skulls",
+    "prices": [
+      {
+        "steam_price": 12.74,
+        "buff_price": 8.35,
+        "buff_username": "情亦聪聪",
+        "timestamp": "2025-10-13T15:21:09.501Z",
+        "ratio": 0.7711
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "name": "共鸣心焦",
+    "buff_link": "https://buff.163.com/goods/14344?from=market#tab=selling",
+    "link": "https://steamcommunity.com/market/listings/570/Focal%20Resonance",
+    "prices": [
+      {
+        "steam_price": 44.68,
+        "buff_price": 32.53,
+        "buff_username": "U03411873504",
+        "timestamp": "2025-10-13T15:21:12.537Z",
+        "ratio": 0.8565
       }
     ]
   }
