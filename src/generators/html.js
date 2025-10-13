@@ -214,7 +214,7 @@ function generateHtmlContent(data, buildId) {
 <body>
     <div class="container">
         <div class="header">
-            <h1>CSGO 价格监控图表</h1>
+            <h1>DOTA2 价格监控图表</h1>
         </div>
         
         <div class="tabs" id="tabs">
