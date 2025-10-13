@@ -1,0 +1,178 @@
+name: Update market data and deploy to GitHub Pages
+
+on:
+  schedule:
+    - cron: '0,30 * * * *' # 每半小时更新一次（北京时间）
+    - cron: '0,15,30,45 19-21 * * *' # 北京时间3-5点期间每15分钟更新一次（UTC 19-21点）
+    - cron: '*/10 * * * *' # 提高触发频率，结合分钟门限减少调度抖动
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+  actions: read
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    outputs:
+      build_id: ${{ steps.get_build_id.outputs.build_id }}
+    concurrency:
+      group: pages-update
+      cancel-in-progress: true
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # 允许后续 rebase/pull
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Minute gate (reduce schedule jitter)
+        run: |
+          # 使用 UTC 时间判断：
+          # - 若处于 19-21 点（对应北京 03-05 点），允许每 15 分钟（0/15/30/45）
+          # - 其他时间允许每 30 分钟（0/30）
+          H=$(date -u +%H)
+          M=$(date -u +%M)
+          if [ $H -ge 19 ] && [ $H -le 21 ]; then
+            if [ $((10#$M % 15)) -ne 0 ]; then
+              echo "Within 19-21 UTC window but minute=$M not on 15-min boundary, skipping run"
+              exit 0
+            fi
+          else
+            if [ $((10#$M % 30)) -ne 0 ]; then
+              echo "Outside 19-21 UTC window and minute=$M not on 30-min boundary, skipping run"
+              exit 0
+            fi
+          fi
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: Run update script
+        env:
+          # 优先使用 secrets，如果没有则使用 variables
+          BUFF_COOKIE_1: ${{ secrets.BUFF_COOKIE_1 || vars.BUFF_COOKIE_1 }}
+          BUFF_COOKIE_2: ${{ secrets.BUFF_COOKIE_2 || vars.BUFF_COOKIE_2 }}
+          BUFF_COOKIE_3: ${{ secrets.BUFF_COOKIE_3 || vars.BUFF_COOKIE_3 }}
+          BUFF_COOKIE_4: ${{ secrets.BUFF_COOKIE_4 || vars.BUFF_COOKIE_4 }}
+          BUFF_COOKIE: ${{ secrets.BUFF_COOKIE || vars.BUFF_COOKIE }}
+          STEAM_COOKIE: ${{ secrets.STEAM_COOKIE || vars.STEAM_COOKIE }}
+          DEBUG: ${{ vars.DEBUG || 'true' }}
+        run: |
+          echo "=== 开始执行数据更新 ==="
+          echo "DEBUG 模式: $DEBUG"
+          echo "当前时间: $(date)"
+          
+          echo "=== 环境变量检查 ==="
+          echo "BUFF_COOKIE_1 长度: ${#BUFF_COOKIE_1}"
+          echo "BUFF_COOKIE_2 长度: ${#BUFF_COOKIE_2}"
+          echo "BUFF_COOKIE_3 长度: ${#BUFF_COOKIE_3}"
+          echo "BUFF_COOKIE_4 长度: ${#BUFF_COOKIE_4}"
+          echo "BUFF_COOKIE 长度: ${#BUFF_COOKIE}"
+          echo "STEAM_COOKIE 长度: ${#STEAM_COOKIE}"
+          
+          # 检查是否有任何 Cookie 设置
+          if [ -z "$BUFF_COOKIE_1" ] && [ -z "$BUFF_COOKIE_2" ] && [ -z "$BUFF_COOKIE_3" ] && [ -z "$BUFF_COOKIE_4" ] && [ -z "$BUFF_COOKIE" ]; then
+            echo "❌ 错误: 未设置任何 BUFF_COOKIE 环境变量"
+            echo "请检查 GitHub Secrets 或 Variables 设置"
+            exit 1
+          else
+            echo "✅ 检测到 BUFF_COOKIE 环境变量"
+          fi
+          
+          if [ -z "$STEAM_COOKIE" ]; then
+            echo "⚠️  警告: 未设置 STEAM_COOKIE 环境变量"
+          else
+            echo "✅ 检测到 STEAM_COOKIE 环境变量"
+          fi
+          
+          # 确保等待命令完成
+          timeout 1800 npm run update || {
+            echo "=== 更新脚本超时或失败 ==="
+            echo "退出码: $?"
+            exit 1
+          }
+          
+          echo "=== 数据更新完成 ==="
+          echo "完成时间: $(date)"
+
+      - name: Export build id
+        id: get_build_id
+        run: |
+          if [ -f public/build_id.txt ]; then
+            echo "build_id=$(cat public/build_id.txt)" >> $GITHUB_OUTPUT
+            echo "Exported build_id: $(cat public/build_id.txt)"
+          else
+            echo "build_id=$(date -u +"%Y-%m-%dT%H:%M:%SZ")" >> $GITHUB_OUTPUT
+            echo "public/build_id.txt not found, exported current timestamp"
+          fi
+
+      - name: Commit and push changes
+        run: |
+          echo "=== Git 状态检查 ==="
+          git status
+          echo "=== 检查文件变更 ==="
+          git diff --name-only
+          echo "=== 检查暂存区 ==="
+          git diff --cached --name-only
+          
+          if ! git diff --quiet; then
+            echo "=== 发现文件变更，准备提交 ==="
+            git add data/data.json public/index.html public/build_id.txt
+            git status
+            git commit -m "chore: hourly data update and static page generation $(date -u +"%Y-%m-%dT%H:%M:%SZ")"
+            echo "=== 推送到远程仓库 ==="
+            # 推送可能因为远端更新而被拒绝，进行一次 rebase 并重试
+            set +e
+            git push origin HEAD:main
+            PUSH_EXIT=$?
+            set -e
+            if [ $PUSH_EXIT -ne 0 ]; then
+              echo "推送被拒绝，尝试抓取并 rebase 到最新的 origin/main 后重试..."
+              git fetch origin main
+              git rebase origin/main
+              git push origin HEAD:main
+              echo "=== 推送完成（经 rebase） ==="
+            else
+              echo "=== 推送完成 ==="
+            fi
+          else
+            echo "No changes to commit"
+          fi
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: update
+    if: github.ref == 'refs/heads/main'
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: './public'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+
