@@ -214,6 +214,13 @@
         "buff_username": "低价秒发自用92",
         "timestamp": "2025-10-13T20:53:42.678Z",
         "ratio": 0.8871
+      },
+      {
+        "steam_price": 25.04,
+        "buff_price": 18.88,
+        "buff_username": "低价秒发自用92",
+        "timestamp": "2025-10-13T22:13:27.214Z",
+        "ratio": 0.8871
       }
     ]
   },
@@ -797,6 +804,13 @@
         "buff_username": "Pagodaostore",
         "timestamp": "2025-10-13T21:53:54.104Z",
         "ratio": 0.7837
+      },
+      {
+        "steam_price": 174.88,
+        "buff_price": 116.5,
+        "buff_username": "Pagodaostore",
+        "timestamp": "2025-10-13T22:12:55.997Z",
+        "ratio": 0.7837
       }
     ]
   },
@@ -1169,6 +1183,13 @@
         "buff_price": 119.5,
         "buff_username": "without666",
         "timestamp": "2025-10-13T21:53:59.065Z",
+        "ratio": 1.0335
+      },
+      {
+        "steam_price": 136.03,
+        "buff_price": 119.5,
+        "buff_username": "without666",
+        "timestamp": "2025-10-13T22:13:09.114Z",
         "ratio": 1.0335
       }
     ]
@@ -1642,6 +1663,13 @@
         "buff_username": "U14859516530",
         "timestamp": "2025-10-13T21:54:27.220Z",
         "ratio": 0.7054
+      },
+      {
+        "steam_price": 9.04,
+        "buff_price": 5.63,
+        "buff_username": "U14859516530",
+        "timestamp": "2025-10-13T22:14:45.017Z",
+        "ratio": 0.7327
       }
     ]
   },
@@ -2733,6 +2761,13 @@
         "buff_username": "Pagodaostore",
         "timestamp": "2025-10-13T21:54:04.798Z",
         "ratio": 0.7505
+      },
+      {
+        "steam_price": 38.21,
+        "buff_price": 24.7,
+        "buff_username": "您发报价三分到",
+        "timestamp": "2025-10-13T22:13:12.521Z",
+        "ratio": 0.7605
       }
     ]
   },
@@ -3697,6 +3732,13 @@
         "buff_username": "U84595248819",
         "timestamp": "2025-10-13T21:54:30.281Z",
         "ratio": 0.7803
+      },
+      {
+        "steam_price": 8.75,
+        "buff_price": 5.84,
+        "buff_username": "U88658935612",
+        "timestamp": "2025-10-13T22:13:30.956Z",
+        "ratio": 0.7852
       }
     ]
   },
@@ -3880,6 +3922,13 @@
         "buff_username": "U84595248819",
         "timestamp": "2025-10-13T19:54:51.699Z",
         "ratio": 0.7317
+      },
+      {
+        "steam_price": 13.23,
+        "buff_price": 9.84,
+        "buff_username": "U88658935612",
+        "timestamp": "2025-10-13T22:14:25.561Z",
+        "ratio": 0.875
       }
     ]
   },
@@ -4273,6 +4322,20 @@
         "buff_username": "U14859516530",
         "timestamp": "2025-10-13T21:54:08.228Z",
         "ratio": 0.8013
+      },
+      {
+        "steam_price": 5.98,
+        "buff_price": 3.78,
+        "buff_username": "U14859516530",
+        "timestamp": "2025-10-13T22:13:01.527Z",
+        "ratio": 0.7437
+      },
+      {
+        "steam_price": 5.98,
+        "buff_price": 3.78,
+        "buff_username": "U14859516530",
+        "timestamp": "2025-10-13T22:13:36.814Z",
+        "ratio": 0.7437
       }
     ]
   },
@@ -4504,6 +4567,13 @@
         "buff_price": 19.05,
         "buff_username": "别追了我到家了",
         "timestamp": "2025-10-13T21:55:50.209Z",
+        "ratio": 0.7554
+      },
+      {
+        "steam_price": 29.67,
+        "buff_price": 19.05,
+        "buff_username": "别追了我到家了",
+        "timestamp": "2025-10-13T22:14:42.088Z",
         "ratio": 0.7554
       }
     ]
@@ -4822,6 +4892,13 @@
         "buff_username": "请多关照呀",
         "timestamp": "2025-10-13T20:47:26.173Z",
         "ratio": 0.7149
+      },
+      {
+        "steam_price": 5.69,
+        "buff_price": 3.48,
+        "buff_username": "自动秒发1分钟",
+        "timestamp": "2025-10-13T22:14:07.963Z",
+        "ratio": 0.7195
       }
     ]
   },
@@ -6036,6 +6113,13 @@
         "buff_username": "自动秒发1分钟",
         "timestamp": "2025-10-13T21:55:17.090Z",
         "ratio": 0.6856
+      },
+      {
+        "steam_price": 10.03,
+        "buff_price": 6.75,
+        "buff_username": "U88658935612",
+        "timestamp": "2025-10-13T22:13:46.092Z",
+        "ratio": 0.7917
       }
     ]
   },
@@ -6142,6 +6226,13 @@
         "buff_username": "U69073466077",
         "timestamp": "2025-10-13T21:54:12.020Z",
         "ratio": 0.8734
+      },
+      {
+        "steam_price": 180,
+        "buff_price": 133,
+        "buff_username": "U69073466077",
+        "timestamp": "2025-10-13T22:13:04.354Z",
+        "ratio": 0.8693
       }
     ]
   },
@@ -6444,6 +6535,13 @@
         "buff_price": 42.6,
         "buff_username": "桃心燕麦片",
         "timestamp": "2025-10-13T21:54:15.301Z",
+        "ratio": 0.7526
+      },
+      {
+        "steam_price": 66.59,
+        "buff_price": 42.6,
+        "buff_username": "桃心燕麦片",
+        "timestamp": "2025-10-13T22:13:15.613Z",
         "ratio": 0.7526
       }
     ]
@@ -6818,6 +6916,13 @@
         "buff_username": "U84595248819",
         "timestamp": "2025-10-13T21:55:22.504Z",
         "ratio": 0.7218
+      },
+      {
+        "steam_price": 9.46,
+        "buff_price": 6.23,
+        "buff_username": "U88658935612",
+        "timestamp": "2025-10-13T22:14:15.778Z",
+        "ratio": 0.7748
       }
     ]
   },
@@ -7563,6 +7668,13 @@
         "buff_username": "U98546746004",
         "timestamp": "2025-10-13T17:54:40.076Z",
         "ratio": 0.9653
+      },
+      {
+        "steam_price": 20.99,
+        "buff_price": 15.08,
+        "buff_username": "从不说粗鄙之语",
+        "timestamp": "2025-10-13T22:13:23.573Z",
+        "ratio": 0.8452
       }
     ]
   },
@@ -8648,6 +8760,13 @@
         "buff_username": "U49853657682",
         "timestamp": "2025-10-13T16:55:24.402Z",
         "ratio": 0.7935
+      },
+      {
+        "steam_price": 8.54,
+        "buff_price": 5.76,
+        "buff_username": "U49853657682",
+        "timestamp": "2025-10-13T22:14:12.534Z",
+        "ratio": 0.7935
       }
     ]
   },
@@ -8839,6 +8958,13 @@
         "buff_price": 28.37,
         "buff_username": "Pagodaostore",
         "timestamp": "2025-10-13T21:54:20.578Z",
+        "ratio": 0.7376
+      },
+      {
+        "steam_price": 45.25,
+        "buff_price": 28.37,
+        "buff_username": "Pagodaostore",
+        "timestamp": "2025-10-13T22:13:19.948Z",
         "ratio": 0.7376
       }
     ]
@@ -9159,6 +9285,13 @@
         "buff_username": "您发报价三分到",
         "timestamp": "2025-10-13T16:57:03.922Z",
         "ratio": 0.7379
+      },
+      {
+        "steam_price": 38.78,
+        "buff_price": 24.7,
+        "buff_username": "Pagodaostore",
+        "timestamp": "2025-10-13T22:14:04.194Z",
+        "ratio": 0.7493
       }
     ]
   },
@@ -9855,6 +9988,13 @@
         "buff_username": "财神爷的宠儿",
         "timestamp": "2025-10-13T19:54:21.883Z",
         "ratio": 0.7374
+      },
+      {
+        "steam_price": 16.79,
+        "buff_price": 10.75,
+        "buff_username": "财神爷的宠儿",
+        "timestamp": "2025-10-13T22:15:03.715Z",
+        "ratio": 0.7532
       }
     ]
   },
@@ -11361,6 +11501,13 @@
         "buff_username": "24h秒发robot",
         "timestamp": "2025-10-13T21:54:46.714Z",
         "ratio": 0.714
+      },
+      {
+        "steam_price": 14.73,
+        "buff_price": 8.94,
+        "buff_username": "24h秒发robot",
+        "timestamp": "2025-10-13T22:14:38.504Z",
+        "ratio": 0.714
       }
     ]
   },
@@ -11418,6 +11565,201 @@
         "buff_username": "U84595248819",
         "timestamp": "2025-10-13T21:55:35.079Z",
         "ratio": 0.7325
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "name": "海象狂猎",
+    "buff_link": "https://buff.163.com/goods/763771?from=market#tab=selling",
+    "link": "https://steamcommunity.com/market/listings/570/Hunt%20of%20the%20Odobenus%20One",
+    "prices": [
+      {
+        "steam_price": 9.6,
+        "buff_price": 6.58,
+        "buff_username": "鈴白",
+        "timestamp": "2025-10-13T22:13:42.515Z",
+        "ratio": 0.8064
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "name": "冰川残骸劫掠者",
+    "buff_link": "https://buff.163.com/goods/31698?from=market#tab=selling",
+    "link": "https://steamcommunity.com/market/listings/570/Icewrack%20Marauder",
+    "prices": [
+      {
+        "steam_price": 10.03,
+        "buff_price": 7.24,
+        "buff_username": "U88658935612",
+        "timestamp": "2025-10-13T22:13:52.363Z",
+        "ratio": 0.8492
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "name": "失落变节者",
+    "buff_link": "https://buff.163.com/goods/31696?from=market#tab=selling",
+    "link": "https://steamcommunity.com/market/listings/570/Forgotten%20Renegade",
+    "prices": [
+      {
+        "steam_price": 9.96,
+        "buff_price": 6.43,
+        "buff_username": "U28635086065",
+        "timestamp": "2025-10-13T22:13:56.048Z",
+        "ratio": 0.7595
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "name": "长夜青衫",
+    "buff_link": "https://buff.163.com/goods/763805?from=market#tab=selling",
+    "link": "https://steamcommunity.com/market/listings/570/Mistress%20of%20the%20Long%20Night",
+    "prices": [
+      {
+        "steam_price": 9.46,
+        "buff_price": 7.31,
+        "buff_username": "光速机器人发4",
+        "timestamp": "2025-10-13T22:14:01.324Z",
+        "ratio": 0.9091
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "name": "风暴之诞神令",
+    "buff_link": "https://buff.163.com/goods/759935?from=market#tab=selling",
+    "link": "https://steamcommunity.com/market/listings/570/Mandate%20of%20the%20Stormborn",
+    "prices": [
+      {
+        "steam_price": 19.78,
+        "buff_price": 13.07,
+        "buff_username": "秒发丶不等待2",
+        "timestamp": "2025-10-13T22:14:21.282Z",
+        "ratio": 0.7774
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "name": "愤恨血脉",
+    "buff_link": "https://buff.163.com/goods/23345?from=market#tab=selling",
+    "link": "https://steamcommunity.com/market/listings/570/Bitter%20Lineage",
+    "prices": [
+      {
+        "steam_price": 36.85,
+        "buff_price": 24.38,
+        "buff_username": "Pagodaostore",
+        "timestamp": "2025-10-13T22:14:29.437Z",
+        "ratio": 0.7784
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "name": "天隐之行战刃",
+    "buff_link": "https://buff.163.com/goods/863002?from=market#tab=selling",
+    "link": "https://steamcommunity.com/market/listings/570/Hidden%20Vector%20-%20Blade",
+    "prices": [
+      {
+        "steam_price": 37.85,
+        "buff_price": 26.84,
+        "buff_username": "U78515654353",
+        "timestamp": "2025-10-13T22:14:35.193Z",
+        "ratio": 0.8343
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "name": "纯金咆怒赤炉",
+    "buff_link": "https://buff.163.com/goods/771772?from=market#tab=selling",
+    "link": "https://steamcommunity.com/market/listings/570/Golden%20Crucible%20of%20Rile",
+    "prices": [
+      {
+        "steam_price": 5.76,
+        "buff_price": 3.69,
+        "buff_username": "U88658935612",
+        "timestamp": "2025-10-13T22:14:51.269Z",
+        "ratio": 0.7537
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "name": "克制之烙",
+    "buff_link": "https://buff.163.com/goods/27668?from=market#tab=selling",
+    "link": "https://steamcommunity.com/market/listings/570/Controlled%20Burn",
+    "prices": [
+      {
+        "steam_price": 6.19,
+        "buff_price": 3.67,
+        "buff_username": "U01571746766",
+        "timestamp": "2025-10-13T22:14:54.847Z",
+        "ratio": 0.6975
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "name": "腥红之愠",
+    "buff_link": "https://buff.163.com/goods/16550?from=market#tab=selling",
+    "link": "https://steamcommunity.com/market/listings/570/Crimson%20Pique",
+    "prices": [
+      {
+        "steam_price": 6.76,
+        "buff_price": 4.02,
+        "buff_username": "U14859516530",
+        "timestamp": "2025-10-13T22:14:57.823Z",
+        "ratio": 0.6996
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "name": "霜境匪徒",
+    "buff_link": "https://buff.163.com/goods/763791?from=market#tab=selling",
+    "link": "https://steamcommunity.com/market/listings/570/Frostreach%20Brigands",
+    "prices": [
+      {
+        "steam_price": 10.03,
+        "buff_price": 7.48,
+        "buff_username": "光速机器人发4",
+        "timestamp": "2025-10-13T22:15:07.427Z",
+        "ratio": 0.8774
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "name": "纯金奇门之锋",
+    "buff_link": "https://buff.163.com/goods/757889?from=market#tab=selling",
+    "link": "https://steamcommunity.com/market/listings/570/Golden%20Edge%20of%20the%20Lost%20Order",
+    "prices": [
+      {
+        "steam_price": 15.65,
+        "buff_price": 9.98,
+        "buff_username": "duanduan",
+        "timestamp": "2025-10-13T22:15:11.061Z",
+        "ratio": 0.7502
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "name": "银灰幽灵",
+    "buff_link": "https://buff.163.com/goods/767611?from=market#tab=selling",
+    "link": "https://steamcommunity.com/market/listings/570/Trail%20of%20the%20Grey%20Ghost",
+    "prices": [
+      {
+        "steam_price": 10.17,
+        "buff_price": 7.05,
+        "buff_username": "鈴白",
+        "timestamp": "2025-10-13T22:15:15.218Z",
+        "ratio": 0.8155
       }
     ]
   }
