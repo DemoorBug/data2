@@ -2055,6 +2055,13 @@
         "buff_username": "24h一秒发货快",
         "timestamp": "2025-10-14T01:05:26.043Z",
         "ratio": 0.7279
+      },
+      {
+        "steam_price": 9.18,
+        "buff_price": 5.76,
+        "buff_username": "恭熹發財",
+        "timestamp": "2025-10-14T04:26:31.580Z",
+        "ratio": 0.7382
       }
     ]
   },
@@ -5225,6 +5232,13 @@
         "buff_username": "秒发秒到账102",
         "timestamp": "2025-10-14T03:56:09.072Z",
         "ratio": 0.7644
+      },
+      {
+        "steam_price": 6.33,
+        "buff_price": 3.84,
+        "buff_username": "秒发秒到账102",
+        "timestamp": "2025-10-14T04:25:58.417Z",
+        "ratio": 0.7137
       }
     ]
   },
@@ -8253,6 +8267,13 @@
         "buff_username": "U95294855125",
         "timestamp": "2025-10-14T03:56:22.746Z",
         "ratio": 0.7319
+      },
+      {
+        "steam_price": 9.46,
+        "buff_price": 6.22,
+        "buff_username": "U28838806619",
+        "timestamp": "2025-10-14T04:26:52.671Z",
+        "ratio": 0.7735
       }
     ]
   },
@@ -10851,6 +10872,13 @@
         "buff_username": "3分发货贼快",
         "timestamp": "2025-10-14T03:56:51.193Z",
         "ratio": 0.7491
+      },
+      {
+        "steam_price": 7.68,
+        "buff_price": 4.89,
+        "buff_username": "3分发货贼快",
+        "timestamp": "2025-10-14T04:26:16.109Z",
+        "ratio": 0.7491
       }
     ]
   },
@@ -10985,6 +11013,13 @@
         "buff_username": "U44728036236",
         "timestamp": "2025-10-13T20:14:08.769Z",
         "ratio": 0.8941
+      },
+      {
+        "steam_price": 18.36,
+        "buff_price": 12.59,
+        "buff_username": "IGG机器人秒发",
+        "timestamp": "2025-10-14T04:26:01.966Z",
+        "ratio": 0.8067
       }
     ]
   },
@@ -13353,6 +13388,13 @@
         "buff_username": "U10902957213",
         "timestamp": "2025-10-14T03:56:13.259Z",
         "ratio": 0.8418
+      },
+      {
+        "steam_price": 23.48,
+        "buff_price": 16.8,
+        "buff_username": "U10902957213",
+        "timestamp": "2025-10-14T04:26:06.890Z",
+        "ratio": 0.8418
       }
     ]
   },
@@ -14447,6 +14489,13 @@
         "buff_username": "酒窝上的奶油",
         "timestamp": "2025-10-14T03:56:36.020Z",
         "ratio": 0.7413
+      },
+      {
+        "steam_price": 15.87,
+        "buff_price": 10,
+        "buff_username": "金色光芒",
+        "timestamp": "2025-10-14T04:26:28.812Z",
+        "ratio": 0.7413
       }
     ]
   },
@@ -14767,6 +14816,13 @@
         "buff_price": 5.67,
         "buff_username": "U66930674471",
         "timestamp": "2025-10-14T03:57:03.764Z",
+        "ratio": 0.7685
+      },
+      {
+        "steam_price": 8.68,
+        "buff_price": 5.67,
+        "buff_username": "U59083312224",
+        "timestamp": "2025-10-14T04:26:42.129Z",
         "ratio": 0.7685
       }
     ]
@@ -15239,6 +15295,13 @@
         "buff_username": "U19224420792",
         "timestamp": "2025-10-14T01:40:46.087Z",
         "ratio": 0.7884
+      },
+      {
+        "steam_price": 12.52,
+        "buff_price": 8.4,
+        "buff_username": "秒发货很快快快",
+        "timestamp": "2025-10-14T04:26:20.760Z",
+        "ratio": 0.7893
       }
     ]
   },
@@ -15509,6 +15572,81 @@
         "buff_username": "U48637298938",
         "timestamp": "2025-10-14T03:56:59.581Z",
         "ratio": 0.8394
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "name": "纯金异端之盟",
+    "buff_link": "https://buff.163.com/goods/29088?from=market#tab=selling",
+    "link": "https://steamcommunity.com/market/listings/570/Golden%20Profane%20Union",
+    "prices": [
+      {
+        "steam_price": 14.51,
+        "buff_price": 8.99,
+        "buff_username": "IGG机器人秒发",
+        "timestamp": "2025-10-14T04:26:11.216Z",
+        "ratio": 0.7289
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "name": "邪龙之冠",
+    "buff_link": "https://buff.163.com/goods/28965?from=market#tab=selling",
+    "link": "https://steamcommunity.com/market/listings/570/Malefic%20Drake%27s%20Hood",
+    "prices": [
+      {
+        "steam_price": 7.47,
+        "buff_price": 4.79,
+        "buff_username": "U17804204930",
+        "timestamp": "2025-10-14T04:26:24.377Z",
+        "ratio": 0.7544
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "name": "谍影潜藏",
+    "buff_link": "https://buff.163.com/goods/2186?from=market#tab=selling",
+    "link": "https://steamcommunity.com/market/listings/570/Shadow%20Masquerade",
+    "prices": [
+      {
+        "steam_price": 8.68,
+        "buff_price": 5.7,
+        "buff_username": "U54771706794",
+        "timestamp": "2025-10-14T04:26:36.177Z",
+        "ratio": 0.7726
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "name": "剑心之遗 - 面具",
+    "buff_link": "https://buff.163.com/goods/965544?from=market#tab=selling",
+    "link": "https://steamcommunity.com/market/listings/570/Bladeform%20Legacy%20-%20Mask",
+    "prices": [
+      {
+        "steam_price": 5.83,
+        "buff_price": 4.41,
+        "buff_username": "美女荷官秒收发",
+        "timestamp": "2025-10-14T04:26:39.388Z",
+        "ratio": 0.8899
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "name": "嘲讽：金如雨下",
+    "buff_link": "https://buff.163.com/goods/1298?from=market#tab=selling",
+    "link": "https://steamcommunity.com/market/listings/570/Taunt%3A%20Make%20It%20Rain",
+    "prices": [
+      {
+        "steam_price": 11.24,
+        "buff_price": 6.55,
+        "buff_username": "U01571746766",
+        "timestamp": "2025-10-14T04:26:48.376Z",
+        "ratio": 0.6856
       }
     ]
   }
