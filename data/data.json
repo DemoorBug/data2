@@ -1741,6 +1741,13 @@
         "buff_username": "请多关照呀",
         "timestamp": "2025-10-14T21:47:33.370Z",
         "ratio": 0.8359
+      },
+      {
+        "steam_price": 19.16,
+        "buff_price": 97.19,
+        "buff_username": "请多关照呀",
+        "timestamp": "2025-10-14T21:55:20.401Z",
+        "ratio": 5.9677
       }
     ]
   },
@@ -3242,6 +3249,13 @@
         "buff_username": "秒发货选晓锋",
         "timestamp": "2025-10-14T21:47:29.131Z",
         "ratio": 0.9314
+      },
+      {
+        "steam_price": 21.52,
+        "buff_price": 117.5,
+        "buff_username": "秒发货选晓锋",
+        "timestamp": "2025-10-14T21:55:31.190Z",
+        "ratio": 6.4236
       }
     ]
   },
@@ -21539,6 +21553,13 @@
         "buff_username": "IGG机器人秒发",
         "timestamp": "2025-10-14T21:49:34.807Z",
         "ratio": 0.844
+      },
+      {
+        "steam_price": 6.28,
+        "buff_price": 32.16,
+        "buff_username": "IGG机器人秒发",
+        "timestamp": "2025-10-14T21:55:43.966Z",
+        "ratio": 6.0247
       }
     ]
   },
@@ -22213,6 +22234,13 @@
         "buff_username": "U18169295914",
         "timestamp": "2025-10-14T21:48:23.487Z",
         "ratio": 0.8152
+      },
+      {
+        "steam_price": 12.01,
+        "buff_price": 57.58,
+        "buff_username": "U18169295914",
+        "timestamp": "2025-10-14T21:55:38.214Z",
+        "ratio": 5.6404
       }
     ]
   },
@@ -22952,6 +22980,13 @@
         "buff_username": "IGG机器人秒发",
         "timestamp": "2025-10-14T21:47:45.581Z",
         "ratio": 0.7112
+      },
+      {
+        "steam_price": 6.5,
+        "buff_price": 28.05,
+        "buff_username": "IGG机器人秒发",
+        "timestamp": "2025-10-14T21:55:27.006Z",
+        "ratio": 5.0769
       }
     ]
   },
@@ -32504,6 +32539,13 @@
         "buff_username": "超音速战士",
         "timestamp": "2025-10-14T21:47:49.952Z",
         "ratio": 0.7001
+      },
+      {
+        "steam_price": 23.82,
+        "buff_price": 101.2,
+        "buff_username": "超音速战士",
+        "timestamp": "2025-10-14T21:55:34.851Z",
+        "ratio": 4.9983
       }
     ]
   },
@@ -33777,6 +33819,13 @@
         "buff_username": "SING国风大势",
         "timestamp": "2025-10-14T21:47:24.663Z",
         "ratio": 0.9645
+      },
+      {
+        "steam_price": 34.58,
+        "buff_price": 202.4,
+        "buff_username": "SING国风大势",
+        "timestamp": "2025-10-14T21:55:23.717Z",
+        "ratio": 6.886
       }
     ]
   },
