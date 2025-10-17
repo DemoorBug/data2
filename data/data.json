@@ -1887,6 +1887,13 @@
         "buff_username": "芜湖色魔",
         "timestamp": "2025-10-17T01:42:22.318Z",
         "ratio": 0.8038
+      },
+      {
+        "steam_price": 24.29,
+        "buff_price": 16.5,
+        "buff_username": "芜湖色魔",
+        "timestamp": "2025-10-17T03:24:59.303Z",
+        "ratio": 0.7992
       }
     ]
   },
@@ -10119,6 +10126,13 @@
         "buff_username": "U25831007176",
         "timestamp": "2025-10-17T03:04:45.897Z",
         "ratio": 0.747
+      },
+      {
+        "steam_price": 9.26,
+        "buff_price": 5.88,
+        "buff_username": "U25831007176",
+        "timestamp": "2025-10-17T03:24:46.103Z",
+        "ratio": 0.747
       }
     ]
   },
@@ -17616,6 +17630,13 @@
         "buff_username": "订单多统一发货",
         "timestamp": "2025-10-17T01:41:29.400Z",
         "ratio": 0.8786
+      },
+      {
+        "steam_price": 29.21,
+        "buff_price": 21.79,
+        "buff_username": "秒发丶不等待2",
+        "timestamp": "2025-10-17T03:24:22.271Z",
+        "ratio": 0.8776
       }
     ]
   },
@@ -23038,6 +23059,13 @@
         "buff_username": "待宰羔羊",
         "timestamp": "2025-10-17T03:03:50.282Z",
         "ratio": 0.8148
+      },
+      {
+        "steam_price": 7.84,
+        "buff_price": 5.42,
+        "buff_username": "芒果干",
+        "timestamp": "2025-10-17T03:24:49.958Z",
+        "ratio": 0.8133
       }
     ]
   },
@@ -27177,6 +27205,13 @@
         "buff_username": "村口的Tony老师",
         "timestamp": "2025-10-17T03:04:26.872Z",
         "ratio": 0.7707
+      },
+      {
+        "steam_price": 5.98,
+        "buff_price": 3.97,
+        "buff_username": "芒果干",
+        "timestamp": "2025-10-17T03:24:53.536Z",
+        "ratio": 0.781
       }
     ]
   },
@@ -29791,6 +29826,13 @@
         "buff_username": "U59135474674",
         "timestamp": "2025-10-17T01:41:58.857Z",
         "ratio": 0.7248
+      },
+      {
+        "steam_price": 5.49,
+        "buff_price": 3.36,
+        "buff_username": "芒果干",
+        "timestamp": "2025-10-17T03:25:17.360Z",
+        "ratio": 0.72
       }
     ]
   },
@@ -31657,6 +31699,13 @@
         "buff_username": "订单多统一发货",
         "timestamp": "2025-10-16T22:54:31.333Z",
         "ratio": 0.7402
+      },
+      {
+        "steam_price": 37.69,
+        "buff_price": 24,
+        "buff_username": "U75478676069",
+        "timestamp": "2025-10-17T03:24:15.709Z",
+        "ratio": 0.7491
       }
     ]
   },
@@ -33225,6 +33274,13 @@
         "buff_price": 5.42,
         "buff_username": "待宰羔羊",
         "timestamp": "2025-10-17T03:03:59.458Z",
+        "ratio": 0.7786
+      },
+      {
+        "steam_price": 8.19,
+        "buff_price": 5.42,
+        "buff_username": "待宰羔羊",
+        "timestamp": "2025-10-17T03:25:47.212Z",
         "ratio": 0.7786
       }
     ]
@@ -44824,6 +44880,13 @@
         "buff_username": "自动秒发半分钟",
         "timestamp": "2025-10-17T03:03:33.783Z",
         "ratio": 0.7953
+      },
+      {
+        "steam_price": 21.87,
+        "buff_price": 14.49,
+        "buff_username": "3分钟发货店铺",
+        "timestamp": "2025-10-17T03:24:11.547Z",
+        "ratio": 0.7795
       }
     ]
   },
@@ -47677,6 +47740,13 @@
         "buff_username": "U62045418154",
         "timestamp": "2025-10-16T23:14:44.395Z",
         "ratio": 0.7616
+      },
+      {
+        "steam_price": 50.01,
+        "buff_price": 32.6,
+        "buff_username": "再见退坑退游",
+        "timestamp": "2025-10-17T03:24:25.239Z",
+        "ratio": 0.7669
       }
     ]
   },
@@ -54808,6 +54878,13 @@
         "buff_username": "凡人修仙189",
         "timestamp": "2025-10-17T01:42:30.367Z",
         "ratio": 0.7085
+      },
+      {
+        "steam_price": 5.2,
+        "buff_price": 3.21,
+        "buff_username": "U91574101781",
+        "timestamp": "2025-10-17T03:25:57.410Z",
+        "ratio": 0.7262
       }
     ]
   },
@@ -57936,6 +58013,13 @@
         "buff_username": "U13813611535",
         "timestamp": "2025-10-16T03:06:07.813Z",
         "ratio": 0.7771
+      },
+      {
+        "steam_price": 9.97,
+        "buff_price": 6.31,
+        "buff_username": "安安不几天",
+        "timestamp": "2025-10-17T03:25:50.898Z",
+        "ratio": 0.7446
       }
     ]
   },
@@ -58652,6 +58736,13 @@
         "buff_username": "U06691529253",
         "timestamp": "2025-10-16T23:55:51.688Z",
         "ratio": 0.7896
+      },
+      {
+        "steam_price": 36.69,
+        "buff_price": 23.5,
+        "buff_username": "U90845637316",
+        "timestamp": "2025-10-17T03:25:02.351Z",
+        "ratio": 0.7535
       }
     ]
   },
@@ -65176,6 +65267,13 @@
         "buff_username": "您发报价三分到",
         "timestamp": "2025-10-17T01:42:53.798Z",
         "ratio": 0.832
+      },
+      {
+        "steam_price": 14.25,
+        "buff_price": 9.9,
+        "buff_username": "3分钟发货店铺",
+        "timestamp": "2025-10-17T03:25:27.099Z",
+        "ratio": 0.8173
       }
     ]
   },
@@ -66626,6 +66724,13 @@
         "buff_username": "U62045418154",
         "timestamp": "2025-10-16T21:12:02.832Z",
         "ratio": 0.7967
+      },
+      {
+        "steam_price": 28.64,
+        "buff_price": 17.35,
+        "buff_username": "祝你平安吉祥",
+        "timestamp": "2025-10-17T03:25:08.466Z",
+        "ratio": 0.7127
       }
     ]
   },
@@ -69991,6 +70096,13 @@
         "buff_username": "U60288059382",
         "timestamp": "2025-10-15T01:06:02.068Z",
         "ratio": 0.7851
+      },
+      {
+        "steam_price": 19.38,
+        "buff_price": 13.9,
+        "buff_username": "萧瑟秋风今又",
+        "timestamp": "2025-10-17T03:24:31.422Z",
+        "ratio": 0.8438
       }
     ]
   },
@@ -76947,6 +77059,13 @@
         "buff_username": "待宰羔羊",
         "timestamp": "2025-10-17T03:04:02.281Z",
         "ratio": 0.7047
+      },
+      {
+        "steam_price": 8.41,
+        "buff_price": 4.79,
+        "buff_username": "全天在线拍吧",
+        "timestamp": "2025-10-17T03:25:37.723Z",
+        "ratio": 0.6701
       }
     ]
   },
@@ -77563,6 +77682,13 @@
         "buff_username": "安宁酱",
         "timestamp": "2025-10-16T11:54:00.995Z",
         "ratio": 0.9329
+      },
+      {
+        "steam_price": 17.31,
+        "buff_price": 14.1,
+        "buff_username": "U86038709556",
+        "timestamp": "2025-10-17T03:25:11.803Z",
+        "ratio": 0.9583
       }
     ]
   },
@@ -81680,6 +81806,13 @@
         "buff_username": "速发速发9527",
         "timestamp": "2025-10-16T11:00:05.334Z",
         "ratio": 0.7758
+      },
+      {
+        "steam_price": 12.11,
+        "buff_price": 8.2,
+        "buff_username": "U07971490428",
+        "timestamp": "2025-10-17T03:24:34.449Z",
+        "ratio": 0.7966
       }
     ]
   },
@@ -82210,6 +82343,73 @@
         "buff_username": "U90621621907",
         "timestamp": "2025-10-17T03:04:34.084Z",
         "ratio": 0.8697
+      },
+      {
+        "steam_price": 12.54,
+        "buff_price": 9.3,
+        "buff_username": "您发报价三分到",
+        "timestamp": "2025-10-17T03:25:20.936Z",
+        "ratio": 0.8725
+      }
+    ]
+  },
+  {
+    "id": 273,
+    "name": "铭刻 空降火炮",
+    "buff_link": "https://buff.163.com/goods/6102?from=market#tab=selling",
+    "link": "https://steamcommunity.com/market/listings/570/Inscribed%20Paraflare%20Cannon",
+    "prices": [
+      {
+        "steam_price": 17.03,
+        "buff_price": 14.4,
+        "buff_username": "您发报价三分到",
+        "timestamp": "2025-10-17T03:24:41.955Z",
+        "ratio": 0.9948
+      }
+    ]
+  },
+  {
+    "id": 274,
+    "name": "铭刻 水晶妖藤",
+    "buff_link": "https://buff.163.com/goods/26871?from=market#tab=selling",
+    "link": "https://steamcommunity.com/market/listings/570/Inscribed%20Crystal%20Dryad",
+    "prices": [
+      {
+        "steam_price": 14.32,
+        "buff_price": 12.59,
+        "buff_username": "U25831007176",
+        "timestamp": "2025-10-17T03:25:32.684Z",
+        "ratio": 1.0343
+      }
+    ]
+  },
+  {
+    "id": 275,
+    "name": "铭刻 刑受神杖",
+    "buff_link": "https://buff.163.com/goods/4694?from=market#tab=selling",
+    "link": "https://steamcommunity.com/market/listings/570/Inscribed%20Tormented%20Staff",
+    "prices": [
+      {
+        "steam_price": 9.97,
+        "buff_price": 7.82,
+        "buff_username": "您发报价三分到",
+        "timestamp": "2025-10-17T03:25:40.833Z",
+        "ratio": 0.9228
+      }
+    ]
+  },
+  {
+    "id": 276,
+    "name": "亚未里亚群威 - 腰带",
+    "buff_link": "https://buff.163.com/goods/963275?from=market#tab=selling",
+    "link": "https://steamcommunity.com/market/listings/570/Flock%20of%20Avilliva%20-%20Belt",
+    "prices": [
+      {
+        "steam_price": 11.61,
+        "buff_price": 6.99,
+        "buff_username": "凡人修仙189",
+        "timestamp": "2025-10-17T03:26:03.760Z",
+        "ratio": 0.7083
       }
     ]
   }
