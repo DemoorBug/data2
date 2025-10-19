@@ -3637,6 +3637,20 @@
         "buff_username": "U62045418154",
         "timestamp": "2025-10-19T19:54:24.640Z",
         "ratio": 0.8028
+      },
+      {
+        "steam_price": 27.08,
+        "buff_price": 18.48,
+        "buff_username": "U62045418154",
+        "timestamp": "2025-10-19T20:11:31.522Z",
+        "ratio": 0.8028
+      },
+      {
+        "steam_price": 27.08,
+        "buff_price": 18.48,
+        "buff_username": "U62045418154",
+        "timestamp": "2025-10-19T20:11:38.804Z",
+        "ratio": 0.8028
       }
     ]
   },
@@ -7495,6 +7509,13 @@
         "buff_username": "怪大地众生太美",
         "timestamp": "2025-10-19T19:53:47.929Z",
         "ratio": 0.9306
+      },
+      {
+        "steam_price": 126.22,
+        "buff_price": 99.9,
+        "buff_username": "怪大地众生太美",
+        "timestamp": "2025-10-19T20:11:11.888Z",
+        "ratio": 0.9311
       }
     ]
   },
@@ -10962,6 +10983,13 @@
         "buff_username": "U62045418154",
         "timestamp": "2025-10-19T19:56:10.838Z",
         "ratio": 0.85
+      },
+      {
+        "steam_price": 37.49,
+        "buff_price": 27.65,
+        "buff_username": "U62045418154",
+        "timestamp": "2025-10-19T20:13:05.983Z",
+        "ratio": 0.8677
       }
     ]
   },
@@ -14126,6 +14154,13 @@
         "buff_price": 120,
         "buff_username": "U28311199397",
         "timestamp": "2025-10-19T19:54:58.837Z",
+        "ratio": 0.9304
+      },
+      {
+        "steam_price": 151.73,
+        "buff_price": 120,
+        "buff_username": "U28311199397",
+        "timestamp": "2025-10-19T20:12:07.381Z",
         "ratio": 0.9304
       }
     ]
@@ -19548,6 +19583,13 @@
         "buff_username": "U87236944199",
         "timestamp": "2025-10-19T19:54:34.539Z",
         "ratio": 0.7733
+      },
+      {
+        "steam_price": 8.62,
+        "buff_price": 5.39,
+        "buff_username": "U87236944199",
+        "timestamp": "2025-10-19T20:11:46.342Z",
+        "ratio": 0.7356
       }
     ]
   },
@@ -21803,6 +21845,13 @@
         "buff_username": "xg来年继续努力",
         "timestamp": "2025-10-19T19:55:11.174Z",
         "ratio": 0.7858
+      },
+      {
+        "steam_price": 7.84,
+        "buff_price": 5.33,
+        "buff_username": "xg来年继续努力",
+        "timestamp": "2025-10-19T20:12:36.682Z",
+        "ratio": 0.7998
       }
     ]
   },
@@ -22772,6 +22821,13 @@
         "buff_username": "U19931266840",
         "timestamp": "2025-10-19T10:15:21.689Z",
         "ratio": 0.9608
+      },
+      {
+        "steam_price": 69.63,
+        "buff_price": 52.9,
+        "buff_username": "U62045418154",
+        "timestamp": "2025-10-19T20:11:08.900Z",
+        "ratio": 0.8938
       }
     ]
   },
@@ -34970,6 +35026,13 @@
         "buff_username": "U87236944199",
         "timestamp": "2025-10-19T19:55:02.003Z",
         "ratio": 0.7534
+      },
+      {
+        "steam_price": 7.55,
+        "buff_price": 4.79,
+        "buff_username": "U87236944199",
+        "timestamp": "2025-10-19T20:12:23.062Z",
+        "ratio": 0.7464
       }
     ]
   },
@@ -38086,6 +38149,13 @@
         "buff_username": "一Evergarden一",
         "timestamp": "2025-10-19T19:56:07.289Z",
         "ratio": 0.684
+      },
+      {
+        "steam_price": 8.34,
+        "buff_price": 4.93,
+        "buff_username": "一Evergarden一",
+        "timestamp": "2025-10-19T20:13:25.385Z",
+        "ratio": 0.6954
       }
     ]
   },
@@ -42533,6 +42603,13 @@
         "buff_username": "U87236944199",
         "timestamp": "2025-10-19T19:53:58.242Z",
         "ratio": 0.7235
+      },
+      {
+        "steam_price": 8.77,
+        "buff_price": 5.35,
+        "buff_username": "U87236944199",
+        "timestamp": "2025-10-19T20:11:22.133Z",
+        "ratio": 0.7177
       }
     ]
   },
@@ -45299,6 +45376,13 @@
         "buff_username": "U87236944199",
         "timestamp": "2025-10-19T19:56:04.276Z",
         "ratio": 0.7416
+      },
+      {
+        "steam_price": 16.11,
+        "buff_price": 9.48,
+        "buff_username": "U87236944199",
+        "timestamp": "2025-10-19T20:13:20.764Z",
+        "ratio": 0.6923
       }
     ]
   },
@@ -50242,6 +50326,13 @@
         "buff_username": "U87236944199",
         "timestamp": "2025-10-19T19:54:54.192Z",
         "ratio": 0.7925
+      },
+      {
+        "steam_price": 5.77,
+        "buff_price": 3.6,
+        "buff_username": "凡人修仙189",
+        "timestamp": "2025-10-19T20:12:03.910Z",
+        "ratio": 0.734
       }
     ]
   },
@@ -52314,6 +52405,13 @@
         "buff_price": 18.72,
         "buff_username": "U87236944199",
         "timestamp": "2025-10-19T19:55:38.483Z",
+        "ratio": 0.7322
+      },
+      {
+        "steam_price": 30.08,
+        "buff_price": 18.72,
+        "buff_username": "U87236944199",
+        "timestamp": "2025-10-19T20:12:39.995Z",
         "ratio": 0.7322
       }
     ]
@@ -55215,6 +55313,13 @@
         "buff_username": "U47396239109",
         "timestamp": "2025-10-19T19:55:05.093Z",
         "ratio": 0.724
+      },
+      {
+        "steam_price": 5.2,
+        "buff_price": 3.2,
+        "buff_username": "U47396239109",
+        "timestamp": "2025-10-19T20:12:32.835Z",
+        "ratio": 0.724
       }
     ]
   },
@@ -57899,6 +58004,13 @@
         "buff_username": "U62045418154",
         "timestamp": "2025-10-19T19:55:57.294Z",
         "ratio": 0.8051
+      },
+      {
+        "steam_price": 12.04,
+        "buff_price": 8.39,
+        "buff_username": "U62045418154",
+        "timestamp": "2025-10-19T20:13:00.757Z",
+        "ratio": 0.8198
       }
     ]
   },
@@ -62900,6 +63012,13 @@
         "buff_username": "秒发秒收phx100",
         "timestamp": "2025-10-19T19:54:48.127Z",
         "ratio": 0.705
+      },
+      {
+        "steam_price": 15.96,
+        "buff_price": 9.48,
+        "buff_username": "秒发秒收phx100",
+        "timestamp": "2025-10-19T20:12:00.328Z",
+        "ratio": 0.6988
       }
     ]
   },
@@ -66299,6 +66418,13 @@
         "buff_username": "自动秒发1分钟",
         "timestamp": "2025-10-19T19:56:01.133Z",
         "ratio": 0.7812
+      },
+      {
+        "steam_price": 11.19,
+        "buff_price": 7.43,
+        "buff_username": "自动秒发1分钟",
+        "timestamp": "2025-10-19T20:13:09.506Z",
+        "ratio": 0.7812
       }
     ]
   },
@@ -67924,6 +68050,13 @@
         "buff_username": "U62045418154",
         "timestamp": "2025-10-19T17:55:54.402Z",
         "ratio": 0.8461
+      },
+      {
+        "steam_price": 188.08,
+        "buff_price": 133.99,
+        "buff_username": "U62045418154",
+        "timestamp": "2025-10-19T20:11:25.658Z",
+        "ratio": 0.8381
       }
     ]
   },
@@ -73996,6 +74129,13 @@
         "buff_price": 7,
         "buff_username": "U41202020115",
         "timestamp": "2025-10-19T19:55:28.528Z",
+        "ratio": 0.7972
+      },
+      {
+        "steam_price": 10.33,
+        "buff_price": 7,
+        "buff_username": "U41202020115",
+        "timestamp": "2025-10-19T20:12:26.887Z",
         "ratio": 0.7972
       }
     ]
@@ -80340,6 +80480,20 @@
         "buff_price": 4.34,
         "buff_username": "自动秒发1分钟",
         "timestamp": "2025-10-19T19:55:24.619Z",
+        "ratio": 0.8524
+      },
+      {
+        "steam_price": 5.99,
+        "buff_price": 4.34,
+        "buff_username": "自动秒发1分钟",
+        "timestamp": "2025-10-19T20:11:16.865Z",
+        "ratio": 0.8524
+      },
+      {
+        "steam_price": 5.99,
+        "buff_price": 4.34,
+        "buff_username": "自动秒发1分钟",
+        "timestamp": "2025-10-19T20:12:44.600Z",
         "ratio": 0.8524
       }
     ]
@@ -87500,6 +87654,13 @@
         "buff_username": "秒发丶不等待2",
         "timestamp": "2025-10-19T19:56:17.596Z",
         "ratio": 0.7955
+      },
+      {
+        "steam_price": 47.11,
+        "buff_price": 32.24,
+        "buff_username": "秒发丶不等待2",
+        "timestamp": "2025-10-19T20:13:28.523Z",
+        "ratio": 0.8051
       }
     ]
   },
@@ -91249,6 +91410,13 @@
         "buff_username": "手机端随时交易",
         "timestamp": "2025-10-19T19:54:39.931Z",
         "ratio": 0.9485
+      },
+      {
+        "steam_price": 157.37,
+        "buff_price": 126.88,
+        "buff_username": "手机端随时交易",
+        "timestamp": "2025-10-19T20:11:52.067Z",
+        "ratio": 0.9485
       }
     ]
   },
@@ -94795,6 +94963,13 @@
         "buff_price": 12.18,
         "buff_username": "低磨寻有缘人",
         "timestamp": "2025-10-19T19:55:51.585Z",
+        "ratio": 0.7614
+      },
+      {
+        "steam_price": 18.82,
+        "buff_price": 12.18,
+        "buff_username": "低磨寻有缘人",
+        "timestamp": "2025-10-19T20:13:15.403Z",
         "ratio": 0.7614
       }
     ]
@@ -98858,6 +99033,13 @@
         "buff_username": "U15027862645",
         "timestamp": "2025-10-19T19:54:21.485Z",
         "ratio": 0.7752
+      },
+      {
+        "steam_price": 65.28,
+        "buff_price": 44,
+        "buff_username": "U15027862645",
+        "timestamp": "2025-10-19T20:11:34.970Z",
+        "ratio": 0.793
       }
     ]
   },
@@ -111605,6 +111787,13 @@
         "buff_username": "Ke1thW",
         "timestamp": "2025-10-19T19:54:44.000Z",
         "ratio": 0.7965
+      },
+      {
+        "steam_price": 24.8,
+        "buff_price": 16.79,
+        "buff_username": "Ke1thW",
+        "timestamp": "2025-10-19T20:11:56.443Z",
+        "ratio": 0.7965
       }
     ]
   },
@@ -113833,6 +114022,13 @@
         "buff_username": "U62045418154",
         "timestamp": "2025-10-19T19:54:28.380Z",
         "ratio": 0.8343
+      },
+      {
+        "steam_price": 19.96,
+        "buff_price": 13.8,
+        "buff_username": "U62045418154",
+        "timestamp": "2025-10-19T20:11:42.990Z",
+        "ratio": 0.8134
       }
     ]
   },
@@ -122681,6 +122877,13 @@
         "buff_username": "退坑出极速发",
         "timestamp": "2025-10-19T19:55:34.123Z",
         "ratio": 1.1016
+      },
+      {
+        "steam_price": 6.98,
+        "buff_price": 6.47,
+        "buff_username": "退坑出极速发",
+        "timestamp": "2025-10-19T20:12:18.042Z",
+        "ratio": 1.0905
       }
     ]
   },
@@ -123427,6 +123630,13 @@
         "buff_username": "U62045418154",
         "timestamp": "2025-10-19T19:55:47.527Z",
         "ratio": 0.7707
+      },
+      {
+        "steam_price": 6.34,
+        "buff_price": 3.97,
+        "buff_username": "U62045418154",
+        "timestamp": "2025-10-19T20:12:52.528Z",
+        "ratio": 0.7367
       }
     ]
   },
@@ -123970,6 +124180,13 @@
         "buff_username": "U62045418154",
         "timestamp": "2025-10-19T19:55:14.165Z",
         "ratio": 0.8462
+      },
+      {
+        "steam_price": 11.69,
+        "buff_price": 7.84,
+        "buff_username": "U62045418154",
+        "timestamp": "2025-10-19T20:12:49.413Z",
+        "ratio": 0.789
       }
     ]
   },
@@ -135245,6 +135462,13 @@
         "buff_price": 3.68,
         "buff_username": "U28372575766",
         "timestamp": "2025-10-19T19:55:18.907Z",
+        "ratio": 0.8556
+      },
+      {
+        "steam_price": 5.06,
+        "buff_price": 3.68,
+        "buff_username": "U28372575766",
+        "timestamp": "2025-10-19T20:12:13.595Z",
         "ratio": 0.8556
       }
     ]
