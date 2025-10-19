@@ -9429,6 +9429,13 @@
         "buff_username": "季伯昌的老板买",
         "timestamp": "2025-10-19T06:30:49.334Z",
         "ratio": 0.7747
+      },
+      {
+        "steam_price": 5.71,
+        "buff_price": 26.8,
+        "buff_username": "U92835000547",
+        "timestamp": "2025-10-19T06:43:00.249Z",
+        "ratio": 5.5218
       }
     ]
   },
@@ -81801,6 +81808,13 @@
         "buff_username": "U85783590570",
         "timestamp": "2025-10-19T06:31:26.605Z",
         "ratio": 0.8532
+      },
+      {
+        "steam_price": 5.83,
+        "buff_price": 28.69,
+        "buff_username": "U62045418154",
+        "timestamp": "2025-10-19T06:43:12.545Z",
+        "ratio": 5.7895
       }
     ]
   },
@@ -123789,6 +123803,13 @@
         "buff_username": "U82032189117",
         "timestamp": "2025-10-19T06:31:23.519Z",
         "ratio": 0.7689
+      },
+      {
+        "steam_price": 9.66,
+        "buff_price": 45,
+        "buff_username": "U05867323061",
+        "timestamp": "2025-10-19T06:43:06.723Z",
+        "ratio": 5.4805
       }
     ]
   },
