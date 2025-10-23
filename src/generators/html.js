@@ -239,6 +239,7 @@ function generateHtmlContent(data, buildId) {
                         <th>Steam 价格</th>
                         <th>Buff 价格</th>
                         <th>比例</th>
+                        <th>数量</th>
                         <th>更新时间</th>
                     </tr>
                 </thead>
@@ -335,6 +336,7 @@ function generateHtmlContent(data, buildId) {
                         <td>
                             <span class="ratio-badge \${ratioClass}">\${ratio.toFixed(3)}</span>
                         </td>
+                        <td>\${item.prices.length}</td>
                         <td>\${updateTime}</td>
                     </tr>
                 \`;
